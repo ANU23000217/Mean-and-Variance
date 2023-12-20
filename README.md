@@ -1,4 +1,6 @@
-#  Mean and variance of a discrete  distribution
+# DATE : 
+
+# EXP NO : 1 -   Mean and variance of a discrete  distribution
 
 
 # Aim : 
@@ -76,6 +78,7 @@ var=EX2-mean**2
 SD=np.sqrt(var)
 print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
+print("The Standard deviation of arrival from feeder is %.3F "%SD)
 
 ```
 
@@ -83,8 +86,7 @@ print("The Variance of arrival from feeder is %.3f "%var)
 
 # Output : 
 
-![Screenshot 2023-12-15 193816](https://github.com/ANU23000217/Mean-and-Variance/assets/139117108/3fef7960-fda0-4396-95ef-d27542ae5255)
-
+![maths experiment 1](https://github.com/ANU23000217/Mean-and-Variance/assets/139117108/894d0786-a5b2-47d7-9dbc-976d5c5ab9c6)
 
 
 # Results :
