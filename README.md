@@ -53,7 +53,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ```
 Developed by: ANU RADHA .N
 
-RegisterNumber:  23000217
+RegisterNumber: 212223230018
 ```
 
 ```
